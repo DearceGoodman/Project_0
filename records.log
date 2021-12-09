@@ -1,0 +1,116 @@
+2021-12-08 14:27:10,436 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-08 14:27:45,331 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-08 14:37:59,752 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-08 14:48:22,597 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-08 14:52:20,605 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-08 15:09:14,637 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-08 16:00:44,972 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-08 16:04:27,343 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-08 16:23:59,189 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-08 16:29:20,456 INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-12-08 16:31:03,096 WARNING  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-08 16:31:03,097 INFO  * Running on http://192.168.1.59:5001/ (Press CTRL+C to quit)
+2021-12-08 16:31:38,908 INFO 192.168.1.59 - - [08/Dec/2021 16:31:38] "POST /customer HTTP/1.1" 200 -
+2021-12-08 16:37:57,186 INFO 192.168.1.59 - - [08/Dec/2021 16:37:57] "GET /customer/8 HTTP/1.1" 200 -
+2021-12-08 16:40:33,041 INFO 192.168.1.59 - - [08/Dec/2021 16:40:33] "[31m[1mGET /customer HTTP/1.1[0m" 405 -
+2021-12-08 16:40:43,733 INFO 192.168.1.59 - - [08/Dec/2021 16:40:43] "GET /customer/8 HTTP/1.1" 200 -
+2021-12-08 16:45:19,897 INFO 192.168.1.59 - - [08/Dec/2021 16:45:19] "PATCH /customer/8 HTTP/1.1" 200 -
+2021-12-08 16:47:23,539 INFO 192.168.1.59 - - [08/Dec/2021 16:47:23] "DELETE /customer/3 HTTP/1.1" 200 -
+2021-12-08 16:52:08,312 INFO 192.168.1.59 - - [08/Dec/2021 16:52:08] "[31m[1mPOST /customer HTTP/1.1[0m" 400 -
+2021-12-08 16:52:18,224 INFO 192.168.1.59 - - [08/Dec/2021 16:52:18] "GET /customer/8 HTTP/1.1" 200 -
+2021-12-08 16:52:52,227 INFO 192.168.1.59 - - [08/Dec/2021 16:52:52] "POST /customer HTTP/1.1" 200 -
+2021-12-08 16:53:14,446 INFO 192.168.1.59 - - [08/Dec/2021 16:53:14] "GET /customer/8 HTTP/1.1" 200 -
+2021-12-08 16:53:19,816 INFO 192.168.1.59 - - [08/Dec/2021 16:53:19] "[31m[1mGET /customer HTTP/1.1[0m" 405 -
+2021-12-08 16:53:28,691 INFO 192.168.1.59 - - [08/Dec/2021 16:53:28] "PATCH /customer/8 HTTP/1.1" 200 -
+2021-12-08 16:54:23,230 INFO 192.168.1.59 - - [08/Dec/2021 16:54:23] "[35m[1mPOST /account HTTP/1.1[0m" 201 -
+2021-12-08 16:55:07,603 INFO 192.168.1.59 - - [08/Dec/2021 16:55:07] "GET /customer/9 HTTP/1.1" 200 -
+2021-12-08 16:56:19,723 INFO 192.168.1.59 - - [08/Dec/2021 16:56:19] "[31m[1mGET /customer HTTP/1.1[0m" 405 -
+2021-12-08 17:08:23,715 WARNING  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-08 17:08:23,716 INFO  * Running on http://192.168.1.59:5001/ (Press CTRL+C to quit)
+2021-12-08 17:08:34,513 INFO 192.168.1.59 - - [08/Dec/2021 17:08:34] "POST /customer HTTP/1.1" 200 -
+2021-12-08 17:09:21,391 INFO 192.168.1.59 - - [08/Dec/2021 17:09:21] "GET /customer HTTP/1.1" 200 -
+2021-12-08 17:09:56,829 INFO 192.168.1.59 - - [08/Dec/2021 17:09:56] "GET /customer HTTP/1.1" 200 -
+2021-12-08 17:10:05,041 INFO 192.168.1.59 - - [08/Dec/2021 17:10:05] "PATCH /customer/8 HTTP/1.1" 200 -
+2021-12-08 17:26:05,208 WARNING  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-08 17:26:05,208 INFO  * Running on http://192.168.1.59:5001/ (Press CTRL+C to quit)
+2021-12-08 17:26:13,527 INFO 192.168.1.59 - - [08/Dec/2021 17:26:13] "PATCH /customer/8 HTTP/1.1" 200 -
+2021-12-08 17:26:22,177 INFO 192.168.1.59 - - [08/Dec/2021 17:26:22] "POST /customer HTTP/1.1" 200 -
+2021-12-08 17:26:30,849 INFO 192.168.1.59 - - [08/Dec/2021 17:26:30] "[35m[1mPOST /account HTTP/1.1[0m" 201 -
+2021-12-08 17:28:38,140 INFO 192.168.1.59 - - [08/Dec/2021 17:28:38] "GET /customer/9 HTTP/1.1" 200 -
+2021-12-08 17:31:04,572 WARNING  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-08 17:31:04,573 INFO  * Running on http://192.168.1.59:5001/ (Press CTRL+C to quit)
+2021-12-08 17:31:19,484 INFO 192.168.1.59 - - [08/Dec/2021 17:31:19] "[35m[1mPOST /account HTTP/1.1[0m" 201 -
+2021-12-08 17:34:22,414 WARNING  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-08 17:34:22,414 INFO  * Running on http://192.168.1.59:5001/ (Press CTRL+C to quit)
+2021-12-08 17:34:32,609 INFO 192.168.1.59 - - [08/Dec/2021 17:34:32] "PATCH /customer/8 HTTP/1.1" 200 -
+2021-12-08 17:59:00,939 WARNING  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-08 17:59:00,940 INFO  * Running on http://192.168.1.59:5001/ (Press CTRL+C to quit)
+2021-12-08 18:00:24,535 INFO 192.168.1.59 - - [08/Dec/2021 18:00:24] "[33mGET /customer/8/100 HTTP/1.1[0m" 404 -
+2021-12-08 18:00:37,684 INFO 192.168.1.59 - - [08/Dec/2021 18:00:37] "[33mPOST /customer/8/100 HTTP/1.1[0m" 404 -
+2021-12-08 18:00:48,370 WARNING  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-08 18:00:48,371 INFO  * Running on http://192.168.1.59:5001/ (Press CTRL+C to quit)
+2021-12-08 18:01:06,988 INFO 192.168.1.59 - - [08/Dec/2021 18:01:06] "[33mPOST /customer/8/100 HTTP/1.1[0m" 404 -
+2021-12-08 18:02:56,145 INFO 192.168.1.59 - - [08/Dec/2021 18:02:56] "[35m[1mPOST /account HTTP/1.1[0m" 201 -
+2021-12-08 18:02:58,514 INFO 192.168.1.59 - - [08/Dec/2021 18:02:58] "[35m[1mPOST /account HTTP/1.1[0m" 201 -
+2021-12-08 18:04:41,486 INFO 192.168.1.59 - - [08/Dec/2021 18:04:41] "POST /customer HTTP/1.1" 200 -
+2021-12-08 18:05:28,301 INFO 192.168.1.59 - - [08/Dec/2021 18:05:28] "[35m[1mPOST /account HTTP/1.1[0m" 201 -
+2021-12-08 18:05:39,573 INFO 192.168.1.59 - - [08/Dec/2021 18:05:39] "[33mGET / HTTP/1.1[0m" 404 -
+2021-12-08 18:06:30,831 INFO 192.168.1.59 - - [08/Dec/2021 18:06:30] "GET /account/1 HTTP/1.1" 200 -
+2021-12-08 18:06:39,189 INFO 192.168.1.59 - - [08/Dec/2021 18:06:39] "GET /account/2 HTTP/1.1" 200 -
+2021-12-08 18:07:03,749 INFO 192.168.1.59 - - [08/Dec/2021 18:07:03] "GET /account HTTP/1.1" 200 -
+2021-12-08 18:10:36,824 INFO 192.168.1.59 - - [08/Dec/2021 18:10:36] "GET /account/2 HTTP/1.1" 200 -
+2021-12-08 18:10:45,633 INFO 192.168.1.59 - - [08/Dec/2021 18:10:45] "GET /account HTTP/1.1" 200 -
+2021-12-08 18:12:39,378 INFO 192.168.1.59 - - [08/Dec/2021 18:12:39] "DELETE /account/1 HTTP/1.1" 200 -
+2021-12-08 18:12:50,544 INFO 192.168.1.59 - - [08/Dec/2021 18:12:50] "GET /account HTTP/1.1" 200 -
+2021-12-08 18:13:36,813 ERROR Exception on /deposit/8/100 [POST]
+Traceback (most recent call last):
+  File "C:\Users\Isassas\PycharmProjects\Project_Bank\venv\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Isassas\PycharmProjects\Project_Bank\venv\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Isassas\PycharmProjects\Project_Bank\venv\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Isassas\PycharmProjects\Project_Bank\venv\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Isassas\PycharmProjects\Project_Bank\main.py", line 154, in deposit_savings
+    account_service.service_deposit(int(account_id), int(deposit_amount))
+  File "C:\Users\Isassas\PycharmProjects\Project_Bank\service_layer\implementation_service\account_service_imp.py", line 12, in service_deposit
+    account.account_balance += deposit
+AttributeError: 'NoneType' object has no attribute 'account_balance'
+2021-12-08 18:13:36,816 INFO 192.168.1.59 - - [08/Dec/2021 18:13:36] "[35m[1mPOST /deposit/8/100 HTTP/1.1[0m" 500 -
+2021-12-08 18:16:09,352 INFO 192.168.1.59 - - [08/Dec/2021 18:16:09] "POST /deposit/2/100 HTTP/1.1" 200 -
+2021-12-08 18:16:17,009 INFO 192.168.1.59 - - [08/Dec/2021 18:16:17] "GET /account/2 HTTP/1.1" 200 -
+2021-12-08 18:16:25,847 INFO 192.168.1.59 - - [08/Dec/2021 18:16:25] "POST /withdraw/2/100 HTTP/1.1" 200 -
+2021-12-08 18:16:31,687 INFO 192.168.1.59 - - [08/Dec/2021 18:16:31] "GET /account/2 HTTP/1.1" 200 -
+2021-12-08 18:19:37,452 ERROR Exception on /deposit/1/100 [POST]
+Traceback (most recent call last):
+  File "C:\Users\Isassas\PycharmProjects\Project_Bank\venv\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Isassas\PycharmProjects\Project_Bank\venv\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Isassas\PycharmProjects\Project_Bank\venv\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Isassas\PycharmProjects\Project_Bank\venv\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Isassas\PycharmProjects\Project_Bank\main.py", line 154, in deposit_savings
+    account_service.service_deposit(int(account_id), int(deposit_amount))
+  File "C:\Users\Isassas\PycharmProjects\Project_Bank\service_layer\implementation_service\account_service_imp.py", line 12, in service_deposit
+    account.account_balance += deposit
+AttributeError: 'NoneType' object has no attribute 'account_balance'
+2021-12-08 18:19:37,453 INFO 192.168.1.59 - - [08/Dec/2021 18:19:37] "[35m[1mPOST /deposit/1/100 HTTP/1.1[0m" 500 -
+2021-12-08 18:22:11,752 INFO 192.168.1.59 - - [08/Dec/2021 18:22:11] "[35m[1mPOST /account HTTP/1.1[0m" 201 -
+2021-12-08 18:22:41,900 INFO 192.168.1.59 - - [08/Dec/2021 18:22:41] "GET /customer HTTP/1.1" 200 -
+2021-12-08 18:31:42,617 WARNING  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-08 18:31:42,617 INFO  * Running on http://192.168.1.59:5001/ (Press CTRL+C to quit)
+2021-12-08 18:31:50,562 INFO 192.168.1.59 - - [08/Dec/2021 18:31:50] "POST /customer HTTP/1.1" 200 -
+2021-12-08 18:33:20,191 WARNING  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-12-08 18:33:20,192 INFO  * Running on http://192.168.1.59:5001/ (Press CTRL+C to quit)
